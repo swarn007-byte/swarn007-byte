@@ -5,7 +5,7 @@
 - 🌱 I’m learning **AI/ML, Deep Learning, and Neural Networks**
 - ✍️ I write articles and document projects on **GitHub**
 - 📫 Reach me at **swarnshekhar21j@gmail.com**
-- ⚡ Fun fact: I want to be an **astronaut**, and I must have a **GitHub account**  
+- ⚡ Fun fact: I want to be an **astronaut**, so I must have a **GitHub account**  
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarn-shekhar-89890727b/)
