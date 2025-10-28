@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Swarn Shekhar
+# Hi there 👋, I'm Swarn 
 
 ## 👨‍💻 About Me
 - 🎓 I’m currently pursuing **B.Tech in Information Technology** from **Galgotia College of Engineering and Technology**
