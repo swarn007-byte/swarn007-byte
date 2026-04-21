@@ -26,5 +26,5 @@
 
 ## 🏆 Achievements
 - Published paper: [**Neural Network from Scratch**](link-to-your-paper)
-- Solved **300+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/your-gfg-username/) and [LeetCode](https://leetcode.com/your-leetcode-username/)
+- Solved **1000+ DSA problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/user/your-gfg-username/) and [LeetCode](https://leetcode.com/your-leetcode-username/)
 - Active participant in **Kaggle competitions**: [Kaggle Profile](https://www.kaggle.com/your-kaggle-username)
