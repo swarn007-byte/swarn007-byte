@@ -15,12 +15,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarn-shekhar-89890727b/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SwarnShekh52934)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swarn_shekhar/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swarnshekhar00101)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnshekhar21j@gmail.com)
 
 </div>
 
@@ -54,7 +51,7 @@ swarn = {
 
 ## 🚀 Featured Projects
 
-### 🥗 [NutriAI — Neural Nutrition Estimation System](https://github.com/swarn007-byte)
+### [NutriAI — Neural Nutrition Estimation System](https://github.com/swarn007-byte)
 > *End-to-end AI-powered nutrition platform using computer vision*
 
 ```
@@ -64,7 +61,7 @@ Food Image → Segmentation → Volume Estimation → Calorie → Nutrient Estim
 
 ---
 
-### 🏙️ [StreetSentinel AI — Civic Violation Detection](https://github.com/swarn007-byte/StreetSentinel-AI-)
+### [StreetSentinel AI — Civic Violation Detection](https://github.com/swarn007-byte/StreetSentinel-AI-)
 > *Deep learning pipeline to monitor city streets and auto-report civic violations*
 
 - CNN-LSTM captioning model with pretrained **DenseNet201** backbone
@@ -75,35 +72,35 @@ Food Image → Segmentation → Volume Estimation → Calorie → Nutrient Estim
 
 ---
 
-### 📚 [Fyodor Dostoevsky RAG](https://github.com/swarn007-byte/fyodor-dostoevsky-RETRIEVAL)
+### [Fyodor Dostoevsky RAG](https://github.com/swarn007-byte/fyodor-dostoevsky-RETRIEVAL)
 > *RAG pipeline to query Dostoevsky's White Nights*
 
 `TypeScript` `Bun` `Express` `Supabase pgvector` `LangChain` `Upstash Redis` ⭐ 1
 
 ---
 
-### 🧪 [ML Studio Interactive](https://github.com/swarn007-byte/ML-Studio-Interactive)
+### [ML Studio Interactive](https://github.com/swarn007-byte/ML-Studio-Interactive)
 > *ML algorithm visualizer over user custom datasets*
 
 `Python` `Scikit-learn` `Matplotlib` ⭐ 1
 
 ---
 
-### 👁️ [0eye Vision MCP](https://github.com/swarn007-byte/0eye-vision-MCP)
+### [0eye Vision MCP](https://github.com/swarn007-byte/0eye-vision-MCP)
 > *Give any LLM eyes — drop an image, get instant multimodal vision intelligence*
 
 `TypeScript` `MCP` `Multimodal AI`
 
 ---
 
-### 📊 [Customer Churn Predictor](https://github.com/swarn007-byte)
+### [Customer Churn Predictor](https://github.com/swarn007-byte)
 > *ANN with Batch Normalization and Dropout for churn prediction*
 
 `Neural Networks` `Scikit-learn` `Feature Engineering` `FastAPI`
 
 ---
 
-## ⚡ Amazon ML Challenge
+##  Amazon ML Challenge
 
 ```
 Team Leader · Top 5.4% of 83,000+ participants
