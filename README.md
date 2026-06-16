@@ -103,7 +103,7 @@ Food Image → Segmentation → Volume Estimation → Calorie → Nutrient Estim
 ##  Amazon ML Challenge
 
 ```
-Team Leader · Top 5.4% of 83,000+ participants
+Team Leader · Ranked 450 of 83,000+ participants
 
 → Built multimodal price prediction on 75,000+ Amazon products
 → Engineered 24–30 features via NLP pipelines + deep learning (BERT, CNN)
