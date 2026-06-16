@@ -42,7 +42,7 @@ swarn = {
 
 | 🥇 | Detail |
 |---|---|
-| **Top 5.4%** | Amazon ML Challenge 2025 — ~4500 / 83,000+ participants |
+|Amazon ML Challenge 2025 — ~450 / 83,000+ participants |
 | **4th Rank** | Galgotias Programming League |
 | **1000+ DSA** | Solved across LeetCode, GFG, Codeforces |
 | **1273 Rating** | Codeforces |
