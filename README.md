@@ -11,7 +11,6 @@
 
 ### building things at the intersection of vision + intelligence
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=ML+Engineer+%7C+Computer+Vision;Deep+Learning+%7C+NLP+%7C+Neural+Networks;450 Amazon+ML+Challenge+2025;1000%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
 
 <br/>
 
