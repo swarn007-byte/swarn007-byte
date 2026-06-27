@@ -50,22 +50,4 @@ swarn = {
 
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Swarn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarn007-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarn007-byte&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=swarn007-byte&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"no matter what it takes and what life takes you through, remember — you had a vision, you are destined to win."*
-
-</div>
